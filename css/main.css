@@ -49,5 +49,5 @@ hr {
     height: 1px;
     background: #333;
     position: block;
-    width: "50%"
+    margin: 1em 0;
 }  
